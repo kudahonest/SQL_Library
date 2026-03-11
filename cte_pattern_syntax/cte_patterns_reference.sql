@@ -1,8 +1,7 @@
 /* ============================================================
    SQL ANALYTICS LIBRARY
    FILE:    cte_patterns_reference.sql
-   PURPOSE: Common Table Expression (CTE) patterns for
-            readable, maintainable, and reusable analytics.
+   PURPOSE: Common Table Expression (CTE) patterns for readable, maintainable, and reusable analytics.
    
    CTEs COVERED:
    1. Simple CTE          — replacing nested subqueries
