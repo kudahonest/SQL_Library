@@ -1,4 +1,4 @@
-# ============================================================
+# ================================================
   # SQL ANALYTICS LIBRARY
   # FILE:    cte_patterns_reference.sql
   # PURPOSE: Common Table Expression (CTE) patterns for readable, maintainable, and reusable analytics.
@@ -10,4 +10,4 @@
    4. CTE for deduplication
    5. CTE for pivot-style aggregation
    6. Chained CTEs        — full analytics pipeline pattern
-# ============================================================
+# ================================================
